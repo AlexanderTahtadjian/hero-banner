@@ -12,3 +12,10 @@ html {
   display: block;
   max-height: 500px;
 }
+
+.banner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
