@@ -15,6 +15,7 @@ html {
 
 .banner {
   position: relative;
+  max-height: 500px;
 }
 
 .banner-head {
