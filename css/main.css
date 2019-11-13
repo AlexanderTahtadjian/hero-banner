@@ -26,6 +26,10 @@ html {
   bottom: 0;
 }
 
+body {
+  position: absolute;
+}
+
 h2 {
   color: #fff;
   font-weight: bold;
