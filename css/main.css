@@ -37,6 +37,7 @@ h2 {
   text-decoration: none;
   font-size: 4rem;
   max-width: 50em;
+  padding-bottom: 0;
   display: block;
   background-color: rgba(0, 0, 0, .5);
   text-align: left;
@@ -45,4 +46,5 @@ h2 {
 p {
   font-size: 2rem;
   font-style: italic;
+  padding-top: 0;
 }
