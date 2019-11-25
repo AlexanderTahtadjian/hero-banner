@@ -26,6 +26,8 @@ html {
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 h2 span {
